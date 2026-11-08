@@ -1,0 +1,13 @@
+{
+  "name": "spicetify-sticky-repeat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Keep the selected Spotify repeat mode when switching tracks.",
+  "scripts": {
+    "test": "node --test tests/sticky-repeat.test.cjs",
+    "check": "node --check sticky-repeat.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
